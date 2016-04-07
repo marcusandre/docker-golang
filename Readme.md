@@ -1,7 +1,9 @@
 
-# Golang 1.4.2
+# Golang 1.6
 
-  This [Dockerfile](http://docker.io/) installs [Golang](http://golang.org/) in version 1.4.2.
+  This [Dockerfile](http://docker.io/) installs [Golang](http://golang.org/) in version 1.6.
+
+  ![docker-badge](http://dockeri.co/image/marcusandre/golang)
 
 ## Usage
 
